@@ -2,5 +2,6 @@ import os
 
 os.system('git add .' )
 os.system('git commit -m "Added 2file"')
-os.system(" AdityaSrikanth | git push origin master")
+os.system("'$Username' = AdityaSrikanth")
+os.system(" '$Username' | git push origin master")
 
